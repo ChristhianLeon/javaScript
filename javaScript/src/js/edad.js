@@ -6,3 +6,4 @@ if(parseInt(edad)>=18){
 }else{
     console.log(`${nombre} es nemor de edad`);
 }
+document.write("holaa")
